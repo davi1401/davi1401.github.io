@@ -1,6 +1,9 @@
 <style>
 
-
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:blue;
+}
 ul {
   list-style-type: none;
   margin: 0;
