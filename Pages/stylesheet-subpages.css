@@ -10,6 +10,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color:rgb(104, 206, 240);
+  background-color:blue;
 }
 
 li {
@@ -23,6 +24,7 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
   font-weight: bold;
+  background-color:blue;
 }
 
 li a:hover {
